@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: prod
+  datasource:
+    url: jdbc:h2:file:./data/multitenant-prod;AUTO_SERVER=TRUE
+    username: sa
+    password:
+
+logging:
+  level:
+    root: INFO
+    com.spunit: INFO
+

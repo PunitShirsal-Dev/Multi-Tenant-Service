@@ -1,0 +1,11 @@
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\controller\ClientRecordController.java
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\domain\ClientRecord.java
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\dto\ClientRecordRequest.java
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\dto\ClientRecordResponse.java
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\exception\GlobalExceptionHandler.java
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\exception\NotFoundException.java
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\MultiTenantServiceApplication.java
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\repository\ClientRecordRepository.java
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\service\ClientRecordService.java
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\tenant\TenantContext.java
+C:\Own\REMOTE\Spring-Boot-Microservices\Multi-Tenant-Service\src\main\java\com\spunit\tenant\TenantContextFilter.java

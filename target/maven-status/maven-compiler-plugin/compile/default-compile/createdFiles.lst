@@ -1,0 +1,11 @@
+com\spunit\domain\ClientRecord.class
+com\spunit\exception\GlobalExceptionHandler.class
+com\spunit\tenant\TenantContextFilter.class
+com\spunit\MultiTenantServiceApplication.class
+com\spunit\exception\NotFoundException.class
+com\spunit\repository\ClientRecordRepository.class
+com\spunit\tenant\TenantContext.class
+com\spunit\dto\ClientRecordResponse.class
+com\spunit\service\ClientRecordService.class
+com\spunit\controller\ClientRecordController.class
+com\spunit\dto\ClientRecordRequest.class
